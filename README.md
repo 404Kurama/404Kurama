@@ -28,7 +28,7 @@ I'm a student from Thailand, I look forward to learning new skills!
 - 🔭 I’m currently working on **Secret Project**
 - 🌱 I’m currently learning **Luau, C#**.
 - 📫 How to reach me: **Kurama#0521**.
-- ⚡ Fun fact: **I nerver burnout because my heart is fire!**
+- ⚡ Fun fact: **I never burnout because my heart is fire!**
 
 ## 🛠️ Languages and Tools
 
